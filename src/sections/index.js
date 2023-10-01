@@ -3,7 +3,7 @@ import PopularProducts from "./PopularProducts";
 import Footer from "./Footer";
 import CustomerReviews from "./CustomerReviews";
 import Services from "./Services";
-import SpecialOffers from "./SpecialOffers";
+import SpecialOffer from "./SpecialOffer";
 import Subscribe from "./Subscribe";
 import SuperQuality from "./SuperQuality";
 
@@ -13,7 +13,7 @@ export {
   Footer,
   CustomerReviews,
   Services,
-  SpecialOffers,
+  SpecialOffer,
   Subscribe,
   SuperQuality,
 };
